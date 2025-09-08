@@ -1,6 +1,6 @@
-# Simple Homepage
-
-一个基于 Vue 3 和 Vite 构建的个人主页模板项目
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient&text=Simple-Homepage&desc=By%20Quenan%20|%20©2025&descAlignY=70" >
+</p>
 
 ## 项目介绍
 
