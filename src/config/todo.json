@@ -1,19 +1,19 @@
 {
   "todoList": [
     {
-      "text": "学会Java",
+      "text": "专业课过关",
       "checked": false
     },
     {
-      "text": "学会粤语",
+      "text": "学各种技术",
       "checked": false
     },
     {
-      "text": "学会英语",
+      "text": "博客完善",
       "checked": false
     },
     {
-      "text": "重构个人主页",
+      "text": "六级过关",
       "checked": true
     }
   ]

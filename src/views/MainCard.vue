@@ -162,8 +162,8 @@
 
     <div class="footer">
       <p>
-        ©2025 Quenan |
-        <a href="https://github.com/QNquenan/Simple-Homepage">仓库</a>
+        ©2025 克喵爱吃卤面 |
+        <a href="https://github.com/kemiaofxjun/KeMiao-Homepage">仓库</a>
       </p>
     </div>
   </div>
@@ -231,4 +231,7 @@ onMounted(() => {
 
 <style>
 @import url(../assets/css/MainCard.css);
+
+
+
 </style>

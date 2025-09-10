@@ -84,6 +84,7 @@
 
     & .content {
         display: flex;
+        flex: 1;
         justify-content: space-between;
         margin-top: 2rem;
 
@@ -263,10 +264,15 @@
     }
 
     & .footer {
-        position: absolute;
+        /* position: absolute;
         bottom: 5px;
         left: 50%;
-        transform: translateX(-50%);
+        transform: translateX(-50%); */
+        position: relative; /* 或者直接去掉 position */
+        margin-top: 2rem;   /* 根据需要调整间距 */
+        text-align: center;
+        font-size: 14px;
+        color: #666;
     }
 }
 
@@ -287,6 +293,9 @@
 @media (max-width: 768px) {
 
     .mainCard {
+          display: flex;
+        flex-direction: column;
+        min-height: 100vh;
         padding-bottom: 3rem;
 
         & .header {
@@ -304,6 +313,8 @@
         }
 
         & .content {
+            flex: 1;
+            display: flex;
             flex-direction: column-reverse;
             align-items: center;
             justify-content: space-between;

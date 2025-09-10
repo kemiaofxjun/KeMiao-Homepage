@@ -25,24 +25,12 @@
       "name": "PHP"
     },
     {
-      "icon": "material-icon-theme:python",
-      "name": "Python"
+      "icon": "material-icon-theme:git",
+      "name": "Git"
     },
     {
       "icon": "material-icon-theme:vue",
       "name": "Vue"
-    },
-    {
-      "icon": "skill-icons:jquery",
-      "name": "Jquery"
-    },
-    {
-      "icon": "skill-icons:photoshop",
-      "name": "PhotoShop"
-    },
-    {
-      "icon": "devicon:xd",
-      "name": "XD"
     }
   ]
 }

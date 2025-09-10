@@ -4,31 +4,37 @@
       "icon": "fa7-solid:blog",
       "text": "博客",
       "color": "#ffb3b3",
-      "url": "https://blog.quenan.cn/"
+      "url": "https://blog-3.kemeow.top/"
     },
     {
       "icon": "mdi:github",
       "text": "Github",
       "color": "#2b2b2b",
-      "url": "https://github.com/QNquenan"
+      "url": "https://github.com/Kemeow815"
     },
     {
-      "icon": "mingcute:bilibili-line",
-      "text": "哔哩哔哩",
-      "color": "#0BA7D4",
-      "url": "https://space.bilibili.com/495882959"
+      "icon": "mdi:telegram",
+      "text": "Telegram",
+      "color": "#0BA7C1",
+      "url": "https://t.me/KemiaoJun"
+    },
+    {
+      "icon": "mingcute:twitter-fill",
+      "text": "推特",
+      "color": "#5DA7D4",
+      "url": "https://x.com/kemiaofxjun"
     },
     {
       "icon": "line-md:email",
       "text": "邮箱",
       "color": "#FDB34F",
-      "url": "mailto:qn2987271942@outlook.com"
+      "url": "mailto:me@mail.kemeow.top"
     },
     {
       "icon": "tabler:brand-netease-music",
       "text": "网易云",
       "color": "#DC1555",
-      "url": "https://music.163.com/#/playlist?id=2696501847&creatorId=1785635020"
+      "url": "https://music.163.com/#/playlist?id=13681647281&creatorId=1725716511"
     }
   ]
 }
