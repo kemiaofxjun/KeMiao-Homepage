@@ -231,7 +231,4 @@ onMounted(() => {
 
 <style>
 @import url(../assets/css/MainCard.css);
-
-
-
 </style>

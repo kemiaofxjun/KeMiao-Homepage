@@ -268,11 +268,10 @@
         bottom: 5px;
         left: 50%;
         transform: translateX(-50%); */
-        position: relative; /* 或者直接去掉 position */
-        margin-top: 2rem;   /* 根据需要调整间距 */
-        text-align: center;
-        font-size: 14px;
-        color: #666;
+  text-align: center;
+  margin-top: 2rem; /* 拉开与上方社交链接的距离 */
+  font-size: 14px;
+  color: #666;
     }
 }
 
@@ -293,10 +292,9 @@
 @media (max-width: 768px) {
 
     .mainCard {
-          display: flex;
-        flex-direction: column;
-        min-height: 100vh;
-        padding-bottom: 3rem;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh; /* 页面至少撑满整个视口高度 */
 
         & .header {
             & .avatar {
