@@ -28,7 +28,7 @@ const props = defineProps({
   height: 40px;
   border-radius: 16px;
   padding: 0.5rem 0.7rem;
-  margin: 0.5rem 0.5rem 0.5rem 0;
+  margin: 0.5rem 0;
   cursor: pointer;
   user-select: none;
   white-space: nowrap;

@@ -137,8 +137,12 @@
 
             & .linkBox {
                 margin: .5rem 0;
-                display: grid;
-                grid-template-columns: repeat(5, 1fr);
+                display: flex;
+                flex-direction: row;
+                flex-wrap: wrap;
+                justify-content: space-around;
+                align-items: center;
+
 
                 & a::before {
                     display: none;
@@ -315,6 +319,10 @@
                 & .linkBox {
                     grid-template-columns: repeat(2, 1fr);
                     justify-items: stretch;
+
+                    & .linkBtn {
+                        width: 40%;
+                    }
                 }
             }
         }
